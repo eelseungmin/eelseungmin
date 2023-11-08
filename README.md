@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Java-007396?&style=flat&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat&logo=spring-boot" />
   <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat" />
- <img src="https://img.shields.io/badge/H2-0052CC?style=flat&logo=h2" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
 </p>
 </div>
