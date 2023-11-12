@@ -19,7 +19,7 @@
     <tr>
       <td>명지대학교 컴퓨터공학과</td>
       <td>2018.03 - 2023.08(졸업)</td>
-      <td>CS 및 관련 과목 수강</td>
+      <td>CS 관련 과목 수강</td>
     </tr>
     <tr>
       <td>패스트캠퍼스 백엔드 개발 부트캠프 4기</td>
@@ -60,9 +60,9 @@
         <a href="https://github.com/FINALALT1/BACKEND">Money Bridge</a>
       </td>
       <td>투자상담 매칭 플랫폼</td>
-      <td>2023.05 ~ 2023.06</td>
+      <td>2023.05 - 2023.06</td>
       <td>백엔드</td>
-      <td>(주)시스메틱의 기획안을 바탕으로 개발 및 결과물 전달, <a href="https://www.moneybridge.co.kr/">배포 링크</a></td>
+      <td>(주)시스메틱의 RFP를 바탕으로 기획 및 개발, <a href="https://www.moneybridge.co.kr/">배포 링크</a></td>
     </tr>
   </tbody>
 </table>
