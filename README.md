@@ -34,7 +34,7 @@
   </tbody>
 </table>
 
-## 👨‍👩‍👧‍👦 Team Projects
+### 👨‍👩‍👧‍👦 Team Projects
 <table>
   <thead align="center">
     <tr border: none;>
