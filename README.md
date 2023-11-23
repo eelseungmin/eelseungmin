@@ -6,12 +6,16 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
 </p>
 
+### 📋 Portfolio
+- 진행한 프로젝트에 대한 설명, DB ERD, 시스템 구성도, 트러블 슈팅 등의 내용을 담았습니다.
+- [바로가기](https://drive.google.com/file/d/1lcl2nDEA30NddeZKoXX2wED_O9-yBMdA/view?usp=drive_link)
+
 ### 📚 Experiences
 <table>
   <thead align="center">
     <tr>
       <td><b>이름</b></td>
-      <td><b>기간</b></td>
+      <td><b>기간(상태)</b></td>
       <td><b>내용</b></td>
     </tr>
   </thead>
@@ -67,8 +71,35 @@
   </tbody>
 </table>
 
-### 📋 Portfolio
-[바로가기](https://drive.google.com/file/d/1lcl2nDEA30NddeZKoXX2wED_O9-yBMdA/view?usp=drive_link)
+### 👨‍👩‍👧‍👦 Study
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>이름</b></td>
+      <td><b>유형</b></td>
+      <td><b>기간</b></td>
+      <td><b>비고</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        데일리 알고리즘
+      </td>
+      <td>알고리즘</td>
+      <td>2022.12 - 2023.04</td>
+      <td>알고리즘 개념 학습, 문제 풀이 후 리뷰</td>
+    </tr>
+    <tr>
+      <td>
+       .self
+      </td>
+      <td>알고리즘</td>
+      <td>2023.11 -</td>
+      <td>알고리즘 문제 풀이</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ### 🎲 Problem Solving
