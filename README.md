@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/FINALALT1/BACKEND">Money Bridge</a>
+        Money Bridge
       </td>
       <td>투자상담 매칭 플랫폼</td>
       <td>2023.05 - 2023.06</td>
