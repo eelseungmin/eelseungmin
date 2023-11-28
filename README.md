@@ -92,7 +92,7 @@
     </tr>
     <tr>
       <td>
-       .self
+       <a href="https://github.com/kimdozzi/algorithm-study">.self</a>
       </td>
       <td>알고리즘</td>
       <td>2023.11 -</td>
