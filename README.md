@@ -10,8 +10,9 @@
 - 진행한 프로젝트에 대한 설명, DB ERD, 시스템 구성도, 트러블 슈팅 등의 내용을 담았습니다.
 - [바로가기](https://drive.google.com/file/d/1lcl2nDEA30NddeZKoXX2wED_O9-yBMdA/view?usp=drive_link)
 
+### 📚 Experience
 <details>
-<summary><h3>📚 Experience</h3></summary>
+<summary>더보기</summary>
 <div markdown="1">
 <table>
   <thead align="center">
@@ -47,8 +48,9 @@
 </div>
 </details>
 
+### 👨‍👩‍👧‍👦 Team Project
 <details>
-<summary><h3>👨‍👩‍👧‍👦 Team Project</h3></summary>
+<summary>더보기</summary>
 <div markdown="1">
 <table>
   <thead align="center">
@@ -93,8 +95,9 @@
 </div>
 </details>
 
+### ✏️ Study
 <details>
-<summary><h3>✏️ Study</h3></summary>
+<summary>더보기</summary>
 <div markdown="1">
 <table>
   <thead align="center">
