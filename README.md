@@ -10,7 +10,9 @@
 - 진행한 프로젝트에 대한 설명, DB ERD, 시스템 구성도, 트러블 슈팅 등의 내용을 담았습니다.
 - [바로가기](https://drive.google.com/file/d/1lcl2nDEA30NddeZKoXX2wED_O9-yBMdA/view?usp=drive_link)
 
-### 📚 Experiences
+<details>
+<summary><h3>📚 Experience</h3></summary>
+<div markdown="1">
 <table>
   <thead align="center">
     <tr>
@@ -33,12 +35,21 @@
     <tr>
       <td>패스트캠퍼스 백엔드 부트캠프 7기 멘토</td>
       <td>2023.11 -</td>
-      <td>주차별 퀴즈 출제 및 검토</a></td>
+      <td>주차 별 퀴즈 출제 및 검토</a></td>
+    </tr>
+    <tr>
+      <td>5th NE(O)RDINARY HACKATHON</td>
+      <td>2023.11</td>
+      <td>무박 2일간 진행, 공감을 위한 커뮤니티 Ditto MVP 개발</a></td>
     </tr>
   </tbody>
 </table>
+</div>
+</details>
 
-### 👨‍👩‍👧‍👦 Team Projects
+<details>
+<summary><h3>👨‍👩‍👧‍👦 Team Project</h3></summary>
+<div markdown="1">
 <table>
   <thead align="center">
     <tr border: none;>
@@ -68,10 +79,23 @@
       <td>백엔드</td>
       <td>(주)시스메틱의 RFP를 바탕으로 기획 및 개발, <a href="https://www.moneybridge.co.kr/">배포 링크</a></td>
     </tr>
+    <tr>
+      <td>
+        모두의 회식
+      </td>
+      <td>직장인을 위한 회식 장소 결정 플랫폼</td>
+      <td>2023.12 -</td>
+      <td>백엔드</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
+</div>
+</details>
 
-### 👨‍👩‍👧‍👦 Study
+<details>
+<summary><h3>✏️ Study</h3></summary>
+<div markdown="1">
 <table>
   <thead align="center">
     <tr border: none;>
@@ -100,6 +124,8 @@
     </tr>
   </tbody>
 </table>
+</div>
+</details>
 
 
 ### 🎲 Problem Solving
