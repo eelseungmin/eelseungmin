@@ -35,12 +35,12 @@
     </tr>
     <tr>
       <td>패스트캠퍼스 백엔드 부트캠프 7기 멘토</td>
-      <td>2023.11 -</td>
+      <td>2023.11 - (진행 중)</td>
       <td>주차 별 퀴즈 출제 및 검토</a></td>
     </tr>
     <tr>
       <td>5th NE(O)RDINARY HACKATHON</td>
-      <td>2023.11</td>
+      <td>2023.11(종료)</td>
       <td>무박 2일간 진행, 공감을 위한 커뮤니티 Ditto MVP 개발</a></td>
     </tr>
   </tbody>
@@ -58,7 +58,7 @@
       <td><b>이름</b></td>
       <td><b>개요</b></td>
       <td><b>기간</b></td>
-      <td><b>역할</b></td>
+      <td><b>역할(팀 구성)</b></td>
       <td><b>비고</b></td>
     </tr>
   </thead>
@@ -69,7 +69,7 @@
       </td>
       <td>연차/당직 관리 서비스</td>
       <td>2023.05</td>
-      <td>백엔드 리드</td>
+      <td>백엔드 리드(FE 4, BE 3)</td>
       <td></td>
     </tr>
     <tr>
@@ -78,7 +78,7 @@
       </td>
       <td>투자상담 매칭 플랫폼</td>
       <td>2023.05 - 2023.06</td>
-      <td>백엔드</td>
+      <td>백엔드(PM 2, UX/UI 2, FE 4, BE 3)</td>
       <td>(주)시스메틱의 RFP를 바탕으로 기획 및 개발, <a href="https://www.moneybridge.co.kr/">배포 링크</a></td>
     </tr>
     <tr>
@@ -87,7 +87,7 @@
       </td>
       <td>회식 장소 결정을 돕는 플랫폼</td>
       <td>2023.12 -</td>
-      <td>백엔드</td>
+      <td>백엔드(PM 2, UX/UI 1, FE 1, BE 2)</td>
       <td></td>
     </tr>
   </tbody>
