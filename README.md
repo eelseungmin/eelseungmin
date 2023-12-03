@@ -102,7 +102,6 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>이름</b></td>
       <td><b>유형</b></td>
       <td><b>기간</b></td>
       <td><b>비고</b></td>
@@ -110,17 +109,11 @@
   </thead>
   <tbody>
     <tr>
-      <td>
-        데일리 알고리즘
-      </td>
       <td>알고리즘</td>
       <td>2022.12 - 2023.04</td>
       <td>알고리즘 개념 학습, 문제 풀이 후 리뷰</td>
     </tr>
     <tr>
-      <td>
-       <a href="https://github.com/kimdozzi/algorithm-study">.self</a>
-      </td>
       <td>알고리즘</td>
       <td>2023.11 -</td>
       <td>알고리즘 문제 풀이</td>
