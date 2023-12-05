@@ -11,117 +11,29 @@
 - [바로가기](https://drive.google.com/file/d/1lcl2nDEA30NddeZKoXX2wED_O9-yBMdA/view?usp=drive_link)
 
 ### 📚 Experience
-<details>
-<summary>더보기</summary>
-<div markdown="1">
-<table>
-  <thead align="center">
-    <tr>
-      <td><b>이름</b></td>
-      <td><b>기간(상태)</b></td>
-      <td><b>내용</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>명지대학교 컴퓨터공학과</td>
-      <td>2018.03 - 2023.08(졸업)</td>
-      <td>CS 관련 과목 수강</td>
-    </tr>
-    <tr>
-      <td>패스트캠퍼스 백엔드 부트캠프 4기</td>
-      <td>2022.12 - 2023.06(수료)</td>
-      <td>Java, Spring Boot, Git 등 백엔드 개발에 필요한 지식 학습</td>
-    </tr>
-    <tr>
-      <td>패스트캠퍼스 백엔드 부트캠프 7기 멘토</td>
-      <td>2023.11 - (진행 중)</td>
-      <td>주차 별 퀴즈 출제 및 검토</a></td>
-    </tr>
-    <tr>
-      <td>5th NE(O)RDINARY HACKATHON</td>
-      <td>2023.11(종료)</td>
-      <td>무박 2일간 진행, 공감을 위한 커뮤니티 Ditto MVP 개발</a></td>
-    </tr>
-  </tbody>
-</table>
-</div>
-</details>
+
+- 가톨릭관동대학교 컴퓨터교육과 (4.11 / 4.5) `2016.03 - 2018.02`
+- 명지대학교 컴퓨터공학과 (3.64 / 4.5) `2018.03 - 2023.08(편입, 졸업)`
+- 패스트캠퍼스 백엔드 개발 부트캠프 4기 `2022.12 - 2023.06(수료)`
+- 패스트캠퍼스 백엔드 개발 부트캠프 7기 퀴즈 멘토 `2023.11 -`
+- 5th 너디너리 해커톤 `2023.11`
 
 ### 👨‍👩‍👧‍👦 Team Project
-<details>
-<summary>더보기</summary>
-<div markdown="1">
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>이름</b></td>
-      <td><b>개요</b></td>
-      <td><b>기간</b></td>
-      <td><b>역할(팀 구성)</b></td>
-      <td><b>비고</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/smash-teams/smash-teams-BE">Team Smash</a>
-      </td>
-      <td>연차/당직 관리 서비스</td>
-      <td>2023.05</td>
-      <td>백엔드 리드(FE 4, BE 3)</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        Money Bridge
-      </td>
-      <td>투자상담 매칭 플랫폼</td>
-      <td>2023.05 - 2023.06</td>
-      <td>백엔드(PM 2, UX/UI 2, FE 4, BE 3)</td>
-      <td>(주)시스메틱의 RFP를 바탕으로 기획 및 개발, <a href="https://www.moneybridge.co.kr/">배포 링크</a></td>
-    </tr>
-    <tr>
-      <td>
-        모두의 회식
-      </td>
-      <td>회식 장소 결정을 돕는 플랫폼</td>
-      <td>2023.12 -</td>
-      <td>백엔드(PM 2, UX/UI 1, FE 1, BE 2)</td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-</div>
-</details>
+
+- [Team Smash](https://github.com/smash-teams/smash-teams-BE) `2023.05`, 백엔드 리드(FE 4, BE 3)
+  - 기업의 연차, 당직을 웹 상에서 편하게 관리하는 서비스
+- Money Bridge `2023.05 - 2023.06`, 백엔드(PM 2, UX/UI 2, FE 4, BE 3)
+  - 투자자와 증권사 소속 PB를 투자 성향과 위치에 따라 투자 상담을 매칭해주는 플랫폼
+  - [배포 링크](https://www.moneybridge.co.kr/)
+- 모두의 회식 `2023.12 -`, 백엔드(PM 2, UX/UI 1, FE 2, BE 2)
+  - 직장 막내의 회식 장소 결정을 돕는 플랫폼
 
 ### ✏️ Study
-<details>
-<summary>더보기</summary>
-<div markdown="1">
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>유형</b></td>
-      <td><b>기간</b></td>
-      <td><b>비고</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>알고리즘</td>
-      <td>2022.12 - 2023.04</td>
-      <td>알고리즘 개념 학습, 문제 풀이 후 리뷰</td>
-    </tr>
-    <tr>
-      <td>알고리즘</td>
-      <td>2023.11 -</td>
-      <td>알고리즘 문제 풀이</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-</details>
+
+- 알고리즘 `2022.12 - 2023.04`
+  - 알고리즘 개념 학습, 문제 풀이 후 리뷰
+- 알고리즘 `2023.11 -`
+  - 알고리즘 문제 풀이
 
 
 ### 🎲 Problem Solving
