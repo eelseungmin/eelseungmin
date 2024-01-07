@@ -26,12 +26,6 @@
 - 모두의 회식 `2023.12 - (진행 중)`, 백엔드(PM 2, UX/UI 1, FE 2, BE 2)
   - 직장 막내의 회식 장소 결정을 돕는 플랫폼
 
-### ✏️ Study
-- 알고리즘 `2022.12 - 2023.04`
-  - 알고리즘 개념 학습, 문제 풀이 후 리뷰
-- 알고리즘 `2023.11 -`
-  - 알고리즘 문제 풀이
-
 
 ### 🎲 Problem Solving
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hol1319)](https://solved.ac/hol1319)
